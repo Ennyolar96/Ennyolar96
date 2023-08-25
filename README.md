@@ -12,14 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/ennyolar96/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ennyolar96)](https://github.com/ennyolar96/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ennyolar96&show_icons=true&theme=radical)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ennyolar96&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ennyolar96&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ennyolar96&show_icons=true" />
-</picture>
+<a href="https://github.com/ennyolar96/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ennyolar96" />
+</a>
+<a href="https://github.com/ennyolar96/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ennyolar96&layout=compact&langs_count=8&card_width=320" />
+</a>
